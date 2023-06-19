@@ -2,7 +2,10 @@
 
 - ### WhiteBoard Title 
     
-    
+   
+    - ![WhiteBoard Most Frequent Time](https://github.com/Abdallahalomarii/Challenges_Csharp/blob/master/MostFrequentNumber.jpg))
+ 
+
 
 - ### Approach & Efficiency
 
@@ -22,4 +25,7 @@
     - To run my code just copy the repo inside your vs and then open it and run directly it should give you this screen 
 
     - here are some screen shots for my code :
+   
+    - ![same Amount duplicate numbers](https://github.com/Abdallahalomarii/Challenges_Csharp/blob/master/duplicate%20-%20Copy.jpg)
 
+    - ![most frequent](https://github.com/Abdallahalomarii/Challenges_Csharp/blob/master/mostFrequent.jpg) 
