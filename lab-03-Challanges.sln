@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33808.371
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab-03-Challanges", "lab-03-Challanges\lab-03-Challanges.csproj", "{A398DFD5-7E20-41A3-96CE-6F0D31482E93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMethods", "TestMethods\TestMethods.csproj", "{BFEC98EF-E9BE-4D31-BFA3-722E02D91D7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A398DFD5-7E20-41A3-96CE-6F0D31482E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A398DFD5-7E20-41A3-96CE-6F0D31482E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A398DFD5-7E20-41A3-96CE-6F0D31482E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A398DFD5-7E20-41A3-96CE-6F0D31482E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFEC98EF-E9BE-4D31-BFA3-722E02D91D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFEC98EF-E9BE-4D31-BFA3-722E02D91D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFEC98EF-E9BE-4D31-BFA3-722E02D91D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFEC98EF-E9BE-4D31-BFA3-722E02D91D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB70C881-17BC-49FE-97C1-2A14F11FD536}
+	EndGlobalSection
+EndGlobal
